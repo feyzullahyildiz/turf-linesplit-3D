@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "nodemon index",
+    "test": "mocha test.spec.js"
+  },
+  "dependencies": {
+    "@turf/line-split": "^5.1.5",
+    "mocha": "^6.1.4",
+    "nodemon": "^1.19.1"
+  }
+}
